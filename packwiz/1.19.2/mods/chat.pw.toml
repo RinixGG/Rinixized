@@ -1,0 +1,13 @@
+name = "Chat Control"
+filename = "Chat-Control.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TgknIsMY/versions/vSgcBJ4G/Chat-Control.jar"
+hash-format = "sha1"
+hash = "20795c55eefab3340ef55be656c52234d5bd720b"
+
+[update]
+[update.modrinth]
+mod-id = "TgknIsMY"
+version = "vSgcBJ4G"

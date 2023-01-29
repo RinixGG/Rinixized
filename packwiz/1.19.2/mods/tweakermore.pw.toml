@@ -1,0 +1,13 @@
+name = "TweakerMore"
+filename = "tweakermore-mc1.19.2-v3.9.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GBeCx05I/versions/WpXmsRCK/tweakermore-mc1.19.2-v3.9.2.jar"
+hash-format = "sha1"
+hash = "428579f669c74d9d5bc18112c1d60d0d91f275b1"
+
+[update]
+[update.modrinth]
+mod-id = "GBeCx05I"
+version = "WpXmsRCK"

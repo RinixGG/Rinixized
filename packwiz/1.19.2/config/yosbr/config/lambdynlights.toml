@@ -1,6 +1,6 @@
 # LambDynamicLights configuration.
 # The dynamic lights mode
-mode = "fancy"
+mode = "fast"
 
 # Light sources settings.
 [light_sources]
@@ -22,34 +22,65 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				dragon_fireball = true
-				chicken = true
+				panda = true
 				axolotl = true
 				bee = true
 				arrow = true
-				donkey = true
 				cow = true
-				evoker_fangs = true
+				pig = true
 				allay = true
-				area_effect_cloud = true
 				bat = true
+				frog = true
+				husk = true
+				hoglin = true
+				firework_rocket = true
+				armor_stand = true
+				giant = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				goat = true
+				item_frame = true
+				horse = true
+				minecart = true
+				ender_dragon = true
+				leash_knot = true
+				evoker = true
+				glow_squid = true
+				glow_item_frame = false
+				parrot = true
+				creeper = true
+				enderman = true
+				dragon_fireball = true
+				chicken = true
+				donkey = true
+				evoker_fangs = true
+				chest_minecart = true
+				fox = true
+				iron_golem = true
+				area_effect_cloud = true
+				zombified_piglin = true
 				blaze = true
 				end_crystal = true
 				endermite = true
 				cat = true
-				armor_stand = true
-				drowned = true
-				experience_orb = true
-				dolphin = true
+				zombie = true
+				ender_pearl = true
+				guardian = true
+				ghast = true
+				sheep = true
+				fireball = true
+				player = true
+				illusioner = true
 				eye_of_ender = true
+				wolf = true
+				skeleton_horse = true
 				elder_guardian = true
 				chest_boat = true
 				boat = true
-				ender_dragon = true
-				evoker = true
+				hopper_minecart = true
+				falling_block = true
 				cave_spider = true
 				cod = true
-				glow_item_frame = false
-				creeper = true
-				enderman = true
 

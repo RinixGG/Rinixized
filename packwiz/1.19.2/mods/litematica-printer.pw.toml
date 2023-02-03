@@ -1,9 +1,0 @@
-name = "Litematica Printer"
-filename = "litematica-printer-mc1.19.2-6.8.0.jar"
-side = "client"
-
-[download]
-url = "https://github.com/aria1th/litematica-printer/releases/download/6.8.1-1.19.3/litematica-printer-mc1.19.2-6.8.0.jar"
-
-hash-format = "sha256"
-hash = "530360d482ea321dee14e73d73de80cf0555723c569bd6fe5a2b1ce10fb85ac0"

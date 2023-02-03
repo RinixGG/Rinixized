@@ -1,0 +1,9 @@
+name = "ItemScrollerCraftFix"
+filename = "itemscroller-fabric-1.19.2-craftfix-1.2.7.jar"
+side = "client"
+
+[download]
+url = "https://download1585.mediafire.com/ghxjab93ou2g/8madduabdkrd3n5/itemscroller-fabric-1.19.2-craftfix-1.2.7.jar"
+
+hash-format = "sha256"
+hash = "e423f3dd9590b0f4fe6d4fdc91c4f1385ca1f4db1d3eebdb98e0a85f0f6e939e"

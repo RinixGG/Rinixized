@@ -1,0 +1,16 @@
+name = "Rinixized-SE"
+author = "Rinix"
+version = "1.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cfc8230c5928c4bd936afc5d493873d1388fae040838f84fbf0b3bdbe9a97d8d"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.11"
+
+[options]
+acceptable-game-versions = ["1.19.1", "1.19.2"]

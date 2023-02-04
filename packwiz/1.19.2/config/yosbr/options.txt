@@ -1,6 +1,6 @@
 version:3120
 quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","lambdabettergrass/default","programer_art","vanilla"]
-autoJump:true
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -101,7 +101,7 @@ key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.unknown
-key_key.loadToolbarActivator:key.keyboard.x
+key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.advancements:key.keyboard.unknown
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
@@ -117,6 +117,7 @@ key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.worldeditcui.toggle:key.keyboard.unknown
 key_key.worldeditcui.clear:key.keyboard.unknown
 key_key.worldeditcui.chunk:key.keyboard.unknown
+key_nbttooltips.keybind:key.keyboard.x
 key_Send Coordinates:key.keyboard.home
 key_key.antighost.reveal:key.keyboard.right.bracket
 key_key.feytweaks.openConfigKey:key.keyboard.unknown

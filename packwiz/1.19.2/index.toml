@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5cbece7d229351547074eaebc5e020480d2a3fcccd058f110f9456e080ff4aa7"
+hash = "56fbed0297edc43cb1983c81d411db51f97174e325d6a94a77702e210aae4777"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -94,7 +94,7 @@ hash = "1c7fc2dc4484da53ef8969738207db0d423457b6f48362d9432c27260051bd2b"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+hash = "85fff422d477c2466a68f6538da09ee9c5be0ac86005266efd31cd973feb91c5"
 
 [[files]]
 file = "config/yosbr/config/waveycapes.json"

@@ -33,6 +33,22 @@ file = "config/yosbr/config/autorun.properties"
 hash = "abd24702acbc92cfb52cebc3b172f1337184ed4d5bfff1157b8852435f3cdd85"
 
 [[files]]
+file = "config/yosbr/config/cem.conf"
+hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "ee1a86cc774ecffb60abf8254c8442218c6247b432971b3513e632e9dd08be5d"
+
+[[files]]
+file = "config/yosbr/config/colormatic.properties"
+hash = "5434873a366ba9a670d573d8e86a452a20bbeffcb5f734f1d10e2e1e09364132"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "f5474c5f2aa9e04cc88211eb6c0b7c4d3835814ba7047252edf624355862caa6"
+
+[[files]]
 file = "config/yosbr/config/exordium.json"
 hash = "002eac16a2f8ef3c6f7116ddc3f98f4c6924b2c4e2dc2c2008aeaaadfa809035"
 
@@ -63,6 +79,10 @@ hash = "c1d09dcfc3b65891dafbbe4824708d03f738289377ffd08d89a91d80026cd1d8"
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "3bde436b68c82a3191302c4137441c96500b37fb7417c68f8a5d7a9eb4116037"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "9ed4ad540e54074c56b9700141b702e13b79a531cd6c678dd4654e3bc50c6bad"
 
 [[files]]
 file = "config/yosbr/config/show_keybinds.json"
@@ -97,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
@@ -160,6 +185,11 @@ hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
 metafile = true
 
 [[files]]
+file = "mods/cem.pw.toml"
+hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
+metafile = true
+
+[[files]]
 file = "mods/chat-coords.pw.toml"
 hash = "678eeb01a4231dbe2122f651c92a785705ed5d7a9ef56a2081b480c3b9f0a63a"
 metafile = true
@@ -175,8 +205,18 @@ hash = "e263dd37f7bb2af931ff0538efb69938fc72baa256eefa536645e6a6b314b986"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.pw.toml"
+hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
 metafile = true
 
 [[files]]
@@ -220,8 +260,23 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cce527e82fdbc8f13fe67258090b8980e4b92551a22d5643705be6e8871b575b"
+metafile = true
+
+[[files]]
 file = "mods/exordium.pw.toml"
 hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "2ecf8a35b7a0f6f00245fc95bc1d15f40ddcbb3c31794e2447911099a326ff9c"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "1ef7f8449365aa7f1185447ca46bc1c742e3d766c9dffb90b90447daed049042"
 metafile = true
 
 [[files]]
@@ -372,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "02afa656e08ce408c1b541e60d9126b8bac35b55a26950547291ee8f54c1899d"
 metafile = true
 
 [[files]]

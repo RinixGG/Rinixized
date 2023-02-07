@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "56fbed0297edc43cb1983c81d411db51f97174e325d6a94a77702e210aae4777"
+hash = "72f44d100a81b18f30fe6b6b4b51d7cbbae6b729b664107eeff677e15e0d7cd5"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -74,7 +74,7 @@ hash = "411740141ba9102b83822f7c61da723938ce6e27642045381b66dd073da4ef5f"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "c1d09dcfc3b65891dafbbe4824708d03f738289377ffd08d89a91d80026cd1d8"
+hash = "ff139d55f93f705d62d9f7fbb2b47e8cec57e7ae1f44cd09a3ac7a05e4a8ea85"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -102,7 +102,7 @@ hash = "0423838d965ecff34525d76f0015a4c0e8dc8965cd59b4b398d2bd2c95de7df0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "719eb025c334eecba02242329b3406f47557ee7098e044ddcbbd8fd07b7ff318"
+hash = "8a0c81e7459f01f0a6c7cd56f9f4ef396886cf5e55014a18a0f9f6f015e30c5e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
+hash = "2355898e55539353e3fe43057c1c2880e02ceb6b64c8f5d1e0bc2a660635c323"
 metafile = true
 
 [[files]]
@@ -407,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/morecullingextra.pw.toml"
 hash = "ad85600fddb58af75bee8cbf6807ac9b0bf0d57a2a963da8a57f77e80fe275b7"
+metafile = true
+
+[[files]]
+file = "mods/nbttooltips.pw.toml"
+hash = "1997cc3bb3892f1d6e31dc19f4bcc21b83598dce53c4451193dd884f8e15f962"
 metafile = true
 
 [[files]]

@@ -1,6 +1,11 @@
 # Rinixized Changelog
 
-1.1.0
+## 1.1.1
+
++ Added NBT Tooltips
++ Config improvements
+
+## 1.1.0
 
 + Added all OptiFine-parity mods (CIT Resewn, FSB, colormatic, etc.)
 + Improved configs

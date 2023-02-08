@@ -1,0 +1,9 @@
+name = "TweakerPlus"
+filename = "tweakerplus-mc1.19.3-v1.3.0-SHAPSHOT.jar"
+side = "client"
+
+[download]
+url = "https://download1482.mediafire.com/v6fnzb0otzeg/lmnniys7lhcwkt2/tweakerplus-mc1.19.3-v1.3.0-SHAPSHOT.jar"
+
+hash-format = "sha256"
+hash = "c179377d3ad91c7c49fee4fb47fb00f41e1def6f10637cbc0eead592822d02e3"

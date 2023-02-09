@@ -1,5 +1,11 @@
 # Rinixized Changelog
 
+## 1.1.2 — 1.19.2
+
++ Updated Iris and More Culling
++ Some config changes
+
+
 ## 1.1.2 — 1.19.3
 
 + Temporarily removed CEM due to issues

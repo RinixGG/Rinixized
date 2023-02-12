@@ -1,5 +1,21 @@
 # Rinixized Changelog
 
+## 1.1.3 — 1.19.3
+
+### Changes
++ Added back Custom Entity Models
++ Added back Lambda Better Grass
++ Updated MoreCulling, Nether Coords and Wavey Capes
+
+
+### Missed mods:
+
++ [Continuity](https://modrinth.com/mod/continuity)
++ [Better Biome Blend](https://modrinth.com/mod/better-biome-blend)
++ [Enhanced Block Entities](https://modrinth.com/mod/ebe)
++ [Colormatic](https://modrinth.com/mod/colormatic)
+
+
 ## 1.1.2 — 1.19.2
 
 + Updated Iris and More Culling

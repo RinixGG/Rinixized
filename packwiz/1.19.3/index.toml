@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbttooltips.pw.toml"
-hash = "1997cc3bb3892f1d6e31dc19f4bcc21b83598dce53c4451193dd884f8e15f962"
+hash = "9702cbaad9afb347deeedcc5c3e0e8ee21be2b3ca6f4b4336c4039b934c31f33"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakerplus.pw.toml"
-hash = "235493cdc29bff5ccd0638e01fc24c5a9418ff7d3ef768d39d79991f55722876"
+hash = "32a3913134d4d7d263ec4af5a981ce8386e9a23dc274c8bf8f9432be417da16c"
 metafile = true
 
 [[files]]

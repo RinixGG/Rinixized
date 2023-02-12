@@ -1,6 +1,110 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "b3a1263b080908d12fa466945c9ddedd5f288af16e0bccf6cdd234fb94a0dde0"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "728a9fc2e688516027636ac00e043ab79c4189a9d2e18a08a07203a7a923ec4b"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "bbc93e6b3cb7a917334cbbb3d1b0775a1cb3244ebc2075e4fa1fb7420e32cea7"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "df34a1ed7b309c08deaf42c906fa2ea6f29bb3bf8395ce26593fac4834938496"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-ServerWhitelist.json"
+hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/yosbr/config/adaptive-tooltips.json"
+hash = "14ddc05429610dd3a8b5f2108f6c14858b67f8395f0c51993bc12d9cf255a58d"
+
+[[files]]
+file = "config/yosbr/config/autorun.properties"
+hash = "abd24702acbc92cfb52cebc3b172f1337184ed4d5bfff1157b8852435f3cdd85"
+
+[[files]]
+file = "config/yosbr/config/cem.conf"
+hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "ee1a86cc774ecffb60abf8254c8442218c6247b432971b3513e632e9dd08be5d"
+
+[[files]]
+file = "config/yosbr/config/colormatic.properties"
+hash = "5434873a366ba9a670d573d8e86a452a20bbeffcb5f734f1d10e2e1e09364132"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "f5474c5f2aa9e04cc88211eb6c0b7c4d3835814ba7047252edf624355862caa6"
+
+[[files]]
+file = "config/yosbr/config/exordium.json"
+hash = "002eac16a2f8ef3c6f7116ddc3f98f4c6924b2c4e2dc2c2008aeaaadfa809035"
+
+[[files]]
+file = "config/yosbr/config/fastload.properties"
+hash = "1054e52cb98972df2244a08ada50a11abfe25f5b5fdf08696b97a4b1a5fdbe6d"
+
+[[files]]
+file = "config/yosbr/config/fastquit-config.txt"
+hash = "d9d6c5c16272977806e25e39517451a874d3b6f81da45b4fbd2d04222307b7ea"
+
+[[files]]
+file = "config/yosbr/config/feytweaks.json"
+hash = "1c95d9faa9395caca3fafb50cb4e05c47dc72a968650f48d53be3552eeff6456"
+
+[[files]]
+file = "config/yosbr/config/inspecio.json"
+hash = "cb13ef2f82e76d55c04ab1ce6c7adb5e729aec15b8bf81f8955bc50f2a7eaaac"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "411740141ba9102b83822f7c61da723938ce6e27642045381b66dd073da4ef5f"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "ff139d55f93f705d62d9f7fbb2b47e8cec57e7ae1f44cd09a3ac7a05e4a8ea85"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "3bde436b68c82a3191302c4137441c96500b37fb7417c68f8a5d7a9eb4116037"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "9ed4ad540e54074c56b9700141b702e13b79a531cd6c678dd4654e3bc50c6bad"
+
+[[files]]
+file = "config/yosbr/config/show_keybinds.json"
+hash = "3e6908b60f732fe7bf9c94ca91cc27a330c9aa6db500b60ded0b0e1f37b38180"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "1c7fc2dc4484da53ef8969738207db0d423457b6f48362d9432c27260051bd2b"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "85fff422d477c2466a68f6538da09ee9c5be0ac86005266efd31cd973feb91c5"
+
+[[files]]
+file = "config/yosbr/config/waveycapes.json"
+hash = "0423838d965ecff34525d76f0015a4c0e8dc8965cd59b4b398d2bd2c95de7df0"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "8a0c81e7459f01f0a6c7cd56f9f4ef396886cf5e55014a18a0f9f6f015e30c5e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c025d2226099f9035bafd0adab1c63f2800dee5aa0c7c047720457f9535439b2"
 metafile = true
@@ -13,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "1032be27cba97e6f12e060b210d7df3d3f3cae3099a66f1b1bb4c13b17786016"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
@@ -31,16 +140,6 @@ hash = "748f4ab8c52c7f1add7286dd8f23240a050fb525f844d52fd3004ef7770f4200"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-hash = "2f353c2f11a14c36f0c3f4a7cd289d0ecdb99df719181db9e81134e74be6b5a0"
-metafile = true
-
-[[files]]
-file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "b9029a27a30b8b6768a715e8a5441d76e0aab8bffd6f0cd6c7789b9cd4752cc0"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7941bb32fbbaba49d4126d2c2f70de0fab748c34d7b76310b084e909932dad93"
 metafile = true
@@ -48,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/betterbarriers.pw.toml"
 hash = "808cbb933c873806d62afd31b82ee3f243e16d3edd8766efdc79bfacc9c42626"
+metafile = true
+
+[[files]]
+file = "mods/betterpingdisplay.pw.toml"
+hash = "8ecd9aa0ca4ac5d96e0192985892f4b65ca214da7941daee0ac774760d22b62d"
 metafile = true
 
 [[files]]
@@ -71,6 +175,11 @@ hash = "6b0c999ed662dbf93be1da92b1f7200fda80f4e690448ec603cda0f1b81c6ccb"
 metafile = true
 
 [[files]]
+file = "mods/cem.pw.toml"
+hash = "188b1f6587b9bcdc3788ae404ad891e5c552b64d3397257cdeab43dd611232df"
+metafile = true
+
+[[files]]
 file = "mods/chat-coords.pw.toml"
 hash = "b14c4f68b21c604e778093ad5dac8f0d937a53dae19bef91c28474bf3f9b9e4b"
 metafile = true
@@ -83,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/chatcalc.pw.toml"
 hash = "e263dd37f7bb2af931ff0538efb69938fc72baa256eefa536645e6a6b314b986"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
 metafile = true
 
 [[files]]
@@ -121,8 +235,23 @@ hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "1b6d3b3242c76ac3b3b81206f470d28f3b4d1d09af450ed358688ea5f8abde14"
+metafile = true
+
+[[files]]
 file = "mods/exordium.pw.toml"
 hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "f33a392dbbc1e518ebca8929707b5f6c38d59c67fb0b30a30a3ebae5e3d59c73"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "4d1d761b0905b18c127d3c5642230ea681f0c52bb5f24df1779b085345c013fa"
 metafile = true
 
 [[files]]
@@ -152,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "9b788ba28337774ec91d15707a8c6ed782d71a89a9b54919e95cb45eed6fc5ff"
+hash = "064fafff245baf812342dc9af4acf661dec663bab2a4067c65a27fa00860efb1"
 metafile = true
 
 [[files]]
@@ -166,8 +295,18 @@ hash = "09d31307f81a06df5ab65ff57c2c830180bbc1138bb8326557172b0a883d6b8b"
 metafile = true
 
 [[files]]
+file = "mods/itemscroller.pw.toml"
+hash = "ab821c3a8f15dc44555a55e69759ce7c490967cbda4e326b95baafa0aeda30a7"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "83a212a71370bd6cc3133a44aed97da0d03492b525f4f0aff5e5a76922608b0b"
 metafile = true
 
 [[files]]
@@ -183,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/litematica.pw.toml"
 hash = "cf07a47ea9c4bfc5ec4630e4efa53db9f317f654055347210c9adb62f63f6057"
+metafile = true
+
+[[files]]
+file = "mods/litematicaprinter.pw.toml"
+hash = "7ffeb976e8f16c4e8072b47553bdf5f4da1ceafdc13d1d8dd27cd6a3112f63dc"
 metafile = true
 
 [[files]]
@@ -232,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ada6aaf453d1c9b246f6b94c457cb01757e027327c27eb46f30b5e7c874ad07d"
+hash = "bbf63ac8b9775c315526e0161daa609493a9a6168741077aca636e0123a2a4f4"
 metafile = true
 
 [[files]]
@@ -241,8 +385,13 @@ hash = "ad85600fddb58af75bee8cbf6807ac9b0bf0d57a2a963da8a57f77e80fe275b7"
 metafile = true
 
 [[files]]
+file = "mods/nbttooltips.pw.toml"
+hash = "1997cc3bb3892f1d6e31dc19f4bcc21b83598dce53c4451193dd884f8e15f962"
+metafile = true
+
+[[files]]
 file = "mods/nether-coords.pw.toml"
-hash = "833776df113661fd28d8451ec253d7e2041b71310f0be3df8a0a052d9200890e"
+hash = "be5fe946da530a6ad15c11c8f01ca1cdcc68c87c46c59ca247fcb21da8cba488"
 metafile = true
 
 [[files]]
@@ -258,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "ad4a221b5135b6e4fe977e360a60b7df32b33951e510667027d5c3ee986659da"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "9f099a192392ee51ed679dad76f74806cf1c2fa8c8a37ae015f22c208cfa8236"
 metafile = true
 
 [[files]]
@@ -351,8 +505,13 @@ hash = "43c03287e02e8cec03c996d184b629577689306c9009e5f145623e79376e3f33"
 metafile = true
 
 [[files]]
+file = "mods/tweakerplus.pw.toml"
+hash = "235493cdc29bff5ccd0638e01fc24c5a9418ff7d3ef768d39d79991f55722876"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "55818f400233b503b748dbc65a7fbdc9c843a56cee0f9515068fe0948212cbc1"
+hash = "ecf0c6a4e1ea923de5149d8fbceb63c2030d9d89385c08289483695d012f5568"
 metafile = true
 
 [[files]]
@@ -366,6 +525,11 @@ hash = "700c7d3d7d4eb1f5eb8b4ef78ea79b6d230db33107404b26e17644c6871f01e7"
 metafile = true
 
 [[files]]
+file = "mods/worldeditcui.pw.toml"
+hash = "1741e121fdad53f4b626acf65654944c6c04244af2b5ab20d1fd3bc9f9a0eee8"
+metafile = true
+
+[[files]]
 file = "mods/xanders-sodium-options.pw.toml"
 hash = "6b3b70a07ebb3f93a818f1f0f56fb2e533e33df5d3fb51bb4f1f3940eb1da051"
 metafile = true
@@ -373,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]

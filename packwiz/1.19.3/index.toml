@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "102baae65f09499fe9881590b64e8f12cbbac22c4b069c437fd200478cd0da64"
+hash = "47aa880171caf9c12c8db015cba01ed578bf126939f5de8f50f51be873c395d8"
 metafile = true
 
 [[files]]
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "868b547515229c2b754024f185e393cc53ddea52e8559f64b7bff971869997d4"
+hash = "2406fde45dfba5beaf45f027f028c28ef9cc8cec91b27429c29979af19b4877b"
 metafile = true
 
 [[files]]

@@ -3,7 +3,7 @@ filename = "litematica-printer-mc1.19.3-6.8.0.jar"
 side = "client"
 
 [download]
-url = "https://github.com/aria1th/litematica-printer/releases/download/6.8.1-1.19.3/litematica-printer-mc1.19.3-6.8.0.jar"
+url = "https://github.com/aria1th/litematica-printer/releases/download/6.8.2/litematica-printer-mc1.19.3-6.8.0.jar"
 
 hash-format = "sha256"
-hash = "0fdf7b90955261b343853ba5202ff65be3c132d491098a7296e1eb7876d26b04"
+hash = "46b8113629392eea68331cdcf241f9612b7e0e257644e229bc9f6ae70ca7b273"

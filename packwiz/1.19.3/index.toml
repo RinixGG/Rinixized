@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b3a1263b080908d12fa466945c9ddedd5f288af16e0bccf6cdd234fb94a0dde0"
+hash = "6e17afd5fadc3de4dda00bd6e8f011c01b5cf3437b30b9ddd1e850bb99eaedeb"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematicaprinter.pw.toml"
-hash = "7ffeb976e8f16c4e8072b47553bdf5f4da1ceafdc13d1d8dd27cd6a3112f63dc"
+hash = "6e669a716a7997bfa392074a8b98149d8b76cead90600fa9a05f53574a9be750"
 metafile = true
 
 [[files]]
@@ -425,11 +425,6 @@ hash = "2406fde45dfba5beaf45f027f028c28ef9cc8cec91b27429c29979af19b4877b"
 metafile = true
 
 [[files]]
-file = "mods/quickconnectbutton.pw.toml"
-hash = "cce33cf20357ed79d306e6897ae3789846014d34f37e65cd12a12a9805837940"
-metafile = true
-
-[[files]]
 file = "mods/recipes.pw.toml"
 hash = "ad40a387b20282ae10b4633d5fed432e3b762bf22bb7c7c24c7b029d6191aa95"
 metafile = true
@@ -512,11 +507,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "ecf0c6a4e1ea923de5149d8fbceb63c2030d9d89385c08289483695d012f5568"
-metafile = true
-
-[[files]]
-file = "mods/whoami.pw.toml"
-hash = "92881f23b9835dd0962a51ffb24f12b8f11e881bd8a5a10c63874223ed60e436"
 metafile = true
 
 [[files]]

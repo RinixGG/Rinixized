@@ -1,5 +1,29 @@
 # Rinixized Changelog
 
+
+## 1.1.4 — 1.19.3
+
+### Changes
+
++ Updated Quilt Loader to 0.18.1
++ Updated QFAPI, Capes, Litematica Printer, Chat Heads, Entity Culling, ImmediatelyFast
++ Removed Who Am I
+
+### Missed Mods
+
++ [Continuity](https://modrinth.com/mod/continuity)
++ [Better Biome Blend](https://modrinth.com/mod/better-biome-blend)
++ [Enhanced Block Entities](https://modrinth.com/mod/ebe)
++ [Colormatic](https://modrinth.com/mod/colormatic)
+
+
+## 1.1.3 — 1.19.2
+
++ Updated Quilt Loader to 0.18.1
++ Updated Litematica Printer
++ Updated Chat Heads
++ Removed Who Am I
+
 ## 1.1.3 — 1.19.3
 
 ### Changes

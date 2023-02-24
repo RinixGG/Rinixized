@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a251740d592640bf50172a2916b31de40d47fc9138982ee3f3f3a8fe74ae6f38"
+hash = "2c18afbb6174fc86f805ba9f3d9583943553294633095ca6dbbce530de7d27f8"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cce527e82fdbc8f13fe67258090b8980e4b92551a22d5643705be6e8871b575b"
+hash = "300179e6347e36a4c6306d0d41fcd8d78eb2f01b7e3877ebeebe6a087cb908d0"
 metafile = true
 
 [[files]]

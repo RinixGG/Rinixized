@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6e17afd5fadc3de4dda00bd6e8f011c01b5cf3437b30b9ddd1e850bb99eaedeb"
+hash = "2eb9468fc92b9be6f2099b06150657161699a6970a5d865400b8371500d647c5"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -102,7 +102,7 @@ hash = "0423838d965ecff34525d76f0015a4c0e8dc8965cd59b4b398d2bd2c95de7df0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8a0c81e7459f01f0a6c7cd56f9f4ef396886cf5e55014a18a0f9f6f015e30c5e"
+hash = "04fc4cd46cf3752687856b7f6d609aff091adb8f2441485955385c25f5998e80"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e858fbca6078746b3ee590387fa14567bfe949fedc05667956df3d9f795481ef"
+hash = "8f37020f121261da32ea4933a3d18c633ea1982b6b2cb823f8fc860fd455883e"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1b6d3b3242c76ac3b3b81206f470d28f3b4d1d09af450ed358688ea5f8abde14"
+hash = "3aad926de03af1573fb934fb5d3ebd98cc41cf5663f97b0f06a4e6d4b0b9f6f2"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakerplus.pw.toml"
-hash = "32a3913134d4d7d263ec4af5a981ce8386e9a23dc274c8bf8f9432be417da16c"
+hash = "73e1965d63681fd26e9b628e2c05807b98207ed8ba57faa754e333fa334c4689"
 metafile = true
 
 [[files]]

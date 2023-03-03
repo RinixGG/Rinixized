@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5d462e34e4e7dd249c2393ce7432ddb6b9e6bbdeffe779e92d2e2389143954e5"
+hash = "6e17afd5fadc3de4dda00bd6e8f011c01b5cf3437b30b9ddd1e850bb99eaedeb"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -102,7 +102,7 @@ hash = "0423838d965ecff34525d76f0015a4c0e8dc8965cd59b4b398d2bd2c95de7df0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8a0c81e7459f01f0a6c7cd56f9f4ef396886cf5e55014a18a0f9f6f015e30c5e"
+hash = "04fc4cd46cf3752687856b7f6d609aff091adb8f2441485955385c25f5998e80"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -117,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
 metafile = true
 
 [[files]]
@@ -156,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "7606ef3e8ec5fdf90f99dbfacc6b1bde4de6decb668662fc797975c7486c2004"
+hash = "2490500bc26547f0db37075562475f42fabac7eae48f5004dc9214a571614cc9"
 metafile = true
 
 [[files]]
@@ -186,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/cem.pw.toml"
-hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
+hash = "7f63923d2240d002b0d113eec8a2fea4869837c09386faed9e1a4d096552d594"
 metafile = true
 
 [[files]]
@@ -196,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "2c18afbb6174fc86f805ba9f3d9583943553294633095ca6dbbce530de7d27f8"
+hash = "d2126311f743248b186c348a4da5f1599db7695eee2ec6f2d9a3641de3f643a5"
 metafile = true
 
 [[files]]
@@ -425,11 +430,6 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
-file = "mods/no-telemetry.pw.toml"
-hash = "e151fe842a9f578b400d9bdfcc3be782861098415aec5cc7909eb69ec425faa3"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "0f9e287c84c2463ecb376d58c8bf30cbfbfa04ec44aef2f61e36e42fe529be30"
+hash = "f2b64534ac741a2a5f4ea7aa59585e1a5e60160e65cddac301d3cf46eb335150"
 metafile = true
 
 [[files]]

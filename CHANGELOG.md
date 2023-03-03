@@ -1,5 +1,29 @@
 # Rinixized Changelog
 
+## 1.1.5 — 1.19.3
+
+### Changes
+
++ Updated Quilt Loader to 0.18.3
++ Updated Better Statistics Screen, Custom Entity Models, Chat Heads and QFAPI
++ Added Alternate Current and BSVSB
++ Removed No Telemetry because "Debugify" has an option to disable telemetry
+
+### Missed Mods
+
++ [Continuity](https://modrinth.com/mod/continuity)
++ [Better Biome Blend](https://modrinth.com/mod/better-biome-blend)
++ [Enhanced Block Entities](https://modrinth.com/mod/ebe)
++ [Colormatic](https://modrinth.com/mod/colormatic)
+
+
+## 1.1.4 — 1.19.2
+
++ Updated Quilt Loader to 0.18.3
++ Updated Better Statistics Screen, Custom Entity models, Chat Heads and QFAPI
++ Added Alternate Current
++ Removed No Telemetry because "Debugify" has an option to disable telemetry
+
 
 ## 1.1.4 — 1.19.3
 

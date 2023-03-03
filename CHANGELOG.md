@@ -6,7 +6,7 @@
 
 + Updated Quilt Loader to 0.18.3
 + Updated Better Statistics Screen, Custom Entity Models, Chat Heads and QFAPI
-+ Added Alternate Current and BSVSB
++ Added Alternate Current
 + Removed No Telemetry because "Debugify" has an option to disable telemetry
 
 ### Missed Mods

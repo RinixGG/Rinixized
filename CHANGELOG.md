@@ -1,5 +1,25 @@
 # Rinixized Changelog
 
+## 1.1.6 — 1.19.3
+
+### Changes
+
++ Added EBE, which finally has been released for 1.19.3
++ Updated Better Statistics Screen, Entity Texture Features, Lithium
+
+By the way, Continuity already has a beta version for 1.19.3, so the release is not so long to wait. As for BBB and Colormatic, they look abandoned, so I'm removing them from the list of unreleased mods (if suddenly they are updated, I'll add them back).
+
+### Missed Mods
+
++ [Continuity](https://modrinth.com/mod/continuity)
+
+
+## 1.1.5 — 1.19.2
+
+This is the last 1.19.2 release for my modpack. Now only the 1.19.3 branch will be supported.
+
++ Updated Better Statistics Screen
+
 ## 1.1.5 — 1.19.3
 
 ### Changes

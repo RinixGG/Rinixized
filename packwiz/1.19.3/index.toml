@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "90e82966f49a18a7939c148ca8fc2a53f3fbd77f71562fd73123aa46169a3a48"
+hash = "43914bac084d068f4df71d5b640d5ea3faa67557b7a00a8ee3e6e011209bb32c"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "56b75abc059e1c6a5035a02a8ca565e3dfb228011db95ca65824452555441a52"
+hash = "93a65e3f351e30ab37ea471ffdfa2c95dd5ec3bd692dd228fb41477fe7213e64"
 metafile = true
 
 [[files]]

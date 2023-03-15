@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2eb9468fc92b9be6f2099b06150657161699a6970a5d865400b8371500d647c5"
+hash = "90e82966f49a18a7939c148ca8fc2a53f3fbd77f71562fd73123aa46169a3a48"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -106,7 +106,7 @@ hash = "04fc4cd46cf3752687856b7f6d609aff091adb8f2441485955385c25f5998e80"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "c025d2226099f9035bafd0adab1c63f2800dee5aa0c7c047720457f9535439b2"
+hash = "c61f1e575d6acf7ef4233f15100db8e870b3c5d2898c910bcf4a10d0dc5534a9"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "f5cc668e2b8d7d792b120789e92119228d55e9468fbb2c5960c02409f545ab23"
+hash = "56b75abc059e1c6a5035a02a8ca565e3dfb228011db95ca65824452555441a52"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "67a4107cb72ca2a8ab7b68448142c383c914d118830b1d334a46c20837c14028"
+hash = "833fc9491858aab2dcf45963b141b34f8af9757de63b9865bd286358bce2f684"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "05bf4efb7aab56777e2f9d51b8113155749758de820d25d211813444f5469b5e"
+hash = "d1592cce2fde95f73e257d48d7ee739542c1f6b641325bbadf092fd38c4f5cca"
 metafile = true
 
 [[files]]
@@ -325,6 +325,11 @@ hash = "3bca5a31f4a469ca2c833cab5b87093ce809c2b599d6f93c19f78b69b78828a5"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "0787b8f8b231e9ce5c4e303000da09ce50cc622ec75eb57676d83be470508fd2"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
@@ -356,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
+hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
 metafile = true
 
 [[files]]
@@ -441,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/showkeybinds.pw.toml"
-hash = "2fd6d3d0ce6181434a0d9027b109394fdbcd2082085207dafa1fe53859dd066e"
+hash = "b63bceee9f0870d923953ac76f12598fdd9279ca3b25db2dc8f72036b1e1e0a2"
 metafile = true
 
 [[files]]
@@ -456,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c8fd86f94fb1bc7def8fc00b4d0722992356c85ad574ce60f1c2c123750c2785"
+hash = "4b3e56fec52c8a95bb59e11f745be3a5ed8a527714cb4b5fb8ac5b7bf3cc662f"
 metafile = true
 
 [[files]]
@@ -481,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/symbol-chat.pw.toml"
-hash = "910e9f6969dcad488aaef1c30bf01730f8603df81ad23e94e724d4cac5cc68e8"
+hash = "27e9706f01a991d5a5a62511843d5e690dddf8f9d6ae82a767cb5df2bc6ab340"
 metafile = true
 
 [[files]]
@@ -496,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "6c81d7dd9e603f0c86153248fcd8888c8e34f4a75b24cf3767313bd220bb07f5"
+hash = "b6753279fd0a377fd88fbd34b6eb84d88c906af67cdfdcfa338971a558a23a94"
 metafile = true
 
 [[files]]

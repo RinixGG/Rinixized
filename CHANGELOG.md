@@ -1,5 +1,18 @@
 # Rinixized Changelog
 
+
+## 1.1.7 — 1.19.3
+
+### Changes
+
++ Added Language Reload
++ Updated 3d Skin Layers, Better Statistics Screen, Chat Heads, ImmediatelyFast, Memory Leak Fix, Show Keybinds, Sodium Extra, Symbol Chat, Tweakermore
+
+### Missed Mods
+
++ [Continuity](https://modrinth.com/mod/continuity)
+
+
 ## 1.1.6 — 1.19.3
 
 ### Changes

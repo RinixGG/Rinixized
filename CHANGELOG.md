@@ -1,6 +1,12 @@
 # Rinixized Changelog
 
 
+## 1.1.9 — 1.19.3
+
+This release is hotfix.
++ Temporarily removed Enhanced Block Entities because of QSL issue
+
+
 ## 1.1.8 — 1.19.3
 
 I can finally release stable 1.19.3!

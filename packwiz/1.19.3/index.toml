@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "32dcb515022210964f4fb9261e2d719044ed6c44d09dd343865996234b8190ed"
+hash = "5a92370bcc10ce0762bf2de246778c54dc1b2518887ff12b0c85d80920b17b6d"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -237,11 +237,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 metafile = true
 
 [[files]]

@@ -1,6 +1,19 @@
 # Rinixized Changelog
 
 
+## 1.1.8 — 1.19.3
+
+I can finally release stable 1.19.3!
+
+### Changes
+
++ Updated Quilt loader(0.18.5 -> 0.18.6)
++ Readded Continuity
++ Updated Quilt Kotlin Libraries and More Culling
+
+Btw, I've started creating 1.19.4 branch of modpack and the first pre-release is coming soon.
+
+
 ## 1.1.7 — 1.19.3
 
 ### Changes

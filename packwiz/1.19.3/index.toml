@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "43914bac084d068f4df71d5b640d5ea3faa67557b7a00a8ee3e6e011209bb32c"
+hash = "32dcb515022210964f4fb9261e2d719044ed6c44d09dd343865996234b8190ed"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -210,6 +210,11 @@ hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
+metafile = true
+
+[[files]]
 file = "mods/copyshot.pw.toml"
 hash = "fcd0a31be8a32d1655b0c0029397daa8bffd0d3e6db2b17d31cb603436448b07"
 metafile = true
@@ -391,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "bbf63ac8b9775c315526e0161daa609493a9a6168741077aca636e0123a2a4f4"
+hash = "0ac90dcc33473b316b975601f5c69f172e9babae174e7c85ec24281e31903934"
 metafile = true
 
 [[files]]
@@ -426,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "ccfc90d276cade7160c905d0751dc8ddd617fcf4dafb62928f524f82757b466a"
+hash = "24ca6901df336de9e8d866ebbbc93f5563a13d52141ce934dd6293746003ea44"
 metafile = true
 
 [[files]]

@@ -1,6 +1,15 @@
 # Rinixized Changelog
 
 
+## 2.0.0 — 1.19.3
+
++ Improved configs
++ I finally made wiki, it's not finished atm, but I'm going to finish it within a month.
++ Replaced BetterPingDisplay with Numeral Ping
++ Replaced [CEM](https://modrinth.com/mod/cem) with [EMF](https://modrinth.com/mod/entity-model-features), finally, you can use Fresh Animations Resource Pack with my modpack.
++ Updated Chat Heads, Fabric Sky Boxes, Fast Load, Fey Tweaks, Language reload, Litematica, Lithium, Memory Leak Fix, ModMenu, Not Enough Animations, QFAPI, Show Keybinds.
+
+
 ## 1.1.9 — 1.19.3
 
 This release is hotfix.

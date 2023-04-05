@@ -127,6 +127,7 @@ key_Get Portal Location:key.keyboard.f10
 key_key.autorun.toggle:key.keyboard.right.shift
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
+key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown

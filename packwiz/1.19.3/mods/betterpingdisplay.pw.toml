@@ -1,9 +1,0 @@
-name = "Better Ping Display"
-filename = "BetterPingDisplay-Fabric-1.2.0.jar"
-side = "client"
-
-[download]
-url = "https://github.com/DenaryDev/better-ping-display-fabric/releases/download/1.2.0%2B1.19.3/BetterPingDisplay-Fabric-1.2.0.jar"
-
-hash-format = "sha256"
-hash = "b8c7d9e44179886c4cba2fad505b8b68d2ed19f271b4a31714d5067888cc4c2c"

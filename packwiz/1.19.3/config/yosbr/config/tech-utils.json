@@ -1,0 +1,33 @@
+{
+  "litematica": {
+    "renderPreview": true,
+    "overridePreview": true,
+    "rotationMode": "Drag",
+    "rotationFactor": 1.0,
+    "renderSlant": 30,
+    "rotatePlacement": {
+      "keys": ""
+    },
+    "mirrorPlacement": {
+      "keys": ""
+    }
+  },
+  "worldedit": {
+    "autoWeSync": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "autoWeSyncTicks": 10,
+    "autoDisableUpdates": true
+  },
+  "misc": {
+    "compactScoreboard": {
+      "enabled": false,
+      "hotkey": {
+        "keys": "F6"
+      }
+    }
+  }
+}

@@ -4,15 +4,6 @@ Quilt-based modpack primarily for technical minecraft players. Rinixized provide
 
 # Q&A
 
-Q: Will there be support for 1.19.3?
-
-A: Maybe yes. 1.19.3 edition isn't ready because some important mods haven't been updated yet.
-
-
-Q: How often will you update your modpack?
-
-A: I think I can call it rolling release modpack so updates will come out frequently.
-
 
 Q: How can I suggest a mod for your modpack?
 
@@ -27,10 +18,6 @@ I'm planning to make more modpack editions in the future and also improve some a
 Модпак, основанный на quilt, в основном для игроков-инженеров в майнкрафт. Rinixized предоставляет вам отличную оптимизацию со множеством дополнительных полезных функций и инструментов таких как [litematica printer](https://github.com/aria1th/litematica-printer), [item scroller](https://github.com/aria1th/itemscroller-crafting-fix), [nether coords](https://modrinth.com/mod/nether-coords), [recursive resources](https://modrinth.com/mod/recursiveresources), [tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) и т.д. Модпак также содержит в себе практически все функции оптифайна([continuity](https://modrinth.com/mod/continuity), [capes](https://modrinth.com/mod/capes), [zoomify](https://modrinth.com/mod/zoomify) и т.д.), а также такие полезные инструменты для разработки ферм и строительства как [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) и [Carpet Mod](https://www.curseforge.com/minecraft/mc-mods/carpet).
 
 # Вопрос&Ответ
-
-Вопрос: Как часто ты будешь обновлять свой модпак?
-
-Ответ: Обновления будут выходить довольно часто, если это будет необходимо.
 
 
 Вопрос: Как я могу предложить мод для твоего модпака?

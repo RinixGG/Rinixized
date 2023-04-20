@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b3f2c230eb6756f372a07bef31e3e416f1061fb75a7e5b3b1fdf3b55b583db66"
+hash = "0c935f53da4c56ff545a8a97c9a83594e42442168568cec6723ea448020f912f"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "612588da2863172ab035842baad97027b3dd83ba548f6f989969368645def110"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -29,20 +33,8 @@ file = "config/yosbr/config/adaptive-tooltips.json"
 hash = "14ddc05429610dd3a8b5f2108f6c14858b67f8395f0c51993bc12d9cf255a58d"
 
 [[files]]
-file = "config/yosbr/config/autorun.properties"
-hash = "abd24702acbc92cfb52cebc3b172f1337184ed4d5bfff1157b8852435f3cdd85"
-
-[[files]]
-file = "config/yosbr/config/cem.conf"
-hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
-
-[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "ee1a86cc774ecffb60abf8254c8442218c6247b432971b3513e632e9dd08be5d"
-
-[[files]]
-file = "config/yosbr/config/colormatic.properties"
-hash = "5434873a366ba9a670d573d8e86a452a20bbeffcb5f734f1d10e2e1e09364132"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -54,7 +46,7 @@ hash = "002eac16a2f8ef3c6f7116ddc3f98f4c6924b2c4e2dc2c2008aeaaadfa809035"
 
 [[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "1054e52cb98972df2244a08ada50a11abfe25f5b5fdf08696b97a4b1a5fdbe6d"
+hash = "d14ffa888e704b69b6ef3959672b5ae32ce36bbef47de03f1704c35a5ba80dc6"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
@@ -69,16 +61,8 @@ file = "config/yosbr/config/inspecio.json"
 hash = "cb13ef2f82e76d55c04ab1ce6c7adb5e729aec15b8bf81f8955bc50f2a7eaaac"
 
 [[files]]
-file = "config/yosbr/config/iris.properties"
-hash = "411740141ba9102b83822f7c61da723938ce6e27642045381b66dd073da4ef5f"
-
-[[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "ff139d55f93f705d62d9f7fbb2b47e8cec57e7ae1f44cd09a3ac7a05e4a8ea85"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "c4bc1d58d8587e8d485067c5f839f829c4d82a8edbeb786a93ce3b283f71006b"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -87,10 +71,6 @@ hash = "3bde436b68c82a3191302c4137441c96500b37fb7417c68f8a5d7a9eb4116037"
 [[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "9ed4ad540e54074c56b9700141b702e13b79a531cd6c678dd4654e3bc50c6bad"
-
-[[files]]
-file = "config/yosbr/config/show_keybinds.json"
-hash = "3e6908b60f732fe7bf9c94ca91cc27a330c9aa6db500b60ded0b0e1f37b38180"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -110,7 +90,7 @@ hash = "0423838d965ecff34525d76f0015a4c0e8dc8965cd59b4b398d2bd2c95de7df0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9d8a9d544227e0ccaed0687e8edabf19ad109ce9d95ed22b39e57b10ed8bb8bf"
+hash = "bbe854cb41f89c07977bc114fa19a7b5f4ee54579104ece892f17bf327d8d645"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -140,11 +120,6 @@ metafile = true
 [[files]]
 file = "mods/antighost.pw.toml"
 hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
-metafile = true
-
-[[files]]
-file = "mods/autorun.pw.toml"
-hash = "b294f67ca50e4cccc40a75b3314f50ef3e8aadc3e7300049a947e26a90d8ae06"
 metafile = true
 
 [[files]]
@@ -218,11 +193,6 @@ hash = "fcd0a31be8a32d1655b0c0029397daa8bffd0d3e6db2b17d31cb603436448b07"
 metafile = true
 
 [[files]]
-file = "mods/dark-loading-screen.pw.toml"
-hash = "ffcd22c001bb119abc9242031b3498c8bf2d43a4a0fa58458f8ca6167e205af7"
-metafile = true
-
-[[files]]
 file = "mods/dcch.pw.toml"
 hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
@@ -239,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e7d59ecd1a6d10dfae1f01741c6240833c54f12e48f44997d3ac7971918f3e63"
+hash = "0d4bc9ff6ca1bb1024a0ead6d06df3f8dabed6fe5eed974bd94e3eac4c0f7b08"
 metafile = true
 
 [[files]]
@@ -269,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "d26ddb229b2cdcb4c8f58e6d75d4c21970d2781c65e10d81e622bc363562c547"
+hash = "3fd5e8732f9cd063d0ff3b6caf305330ed8a306cb1af9630c79eabf4ca83606d"
 metafile = true
 
 [[files]]
@@ -289,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d1592cce2fde95f73e257d48d7ee739542c1f6b641325bbadf092fd38c4f5cca"
+hash = "93255e83ba1978a3e41222593a935413bbbffd4a3014fa74739446ed66ce7f89"
 metafile = true
 
 [[files]]
@@ -338,13 +308,13 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
-file = "mods/litematica.pw.toml"
-hash = "92e8b74847c6643d1d663222b9c062471c3ded643e4654b68fae2bda8487b3b2"
+file = "mods/litematica-printer-easyplace-extension.pw.toml"
+hash = "e040134587deaf8f68a57e47f9f2df2d0f548320953c5db3b00e9e7a9445004c"
 metafile = true
 
 [[files]]
-file = "mods/litematicaprinter.pw.toml"
-hash = "6e669a716a7997bfa392074a8b98149d8b76cead90600fa9a05f53574a9be750"
+file = "mods/litematica.pw.toml"
+hash = "92e8b74847c6643d1d663222b9c062471c3ded643e4654b68fae2bda8487b3b2"
 metafile = true
 
 [[files]]
@@ -398,16 +368,6 @@ hash = "0ac90dcc33473b316b975601f5c69f172e9babae174e7c85ec24281e31903934"
 metafile = true
 
 [[files]]
-file = "mods/morecullingextra.pw.toml"
-hash = "77bd4cd29d30c02a09efd60a3cdf8f3c18839d334fc8cabd20bad55b4daed572"
-metafile = true
-
-[[files]]
-file = "mods/nbttooltips.pw.toml"
-hash = "9702cbaad9afb347deeedcc5c3e0e8ee21be2b3ca6f4b4336c4039b934c31f33"
-metafile = true
-
-[[files]]
 file = "mods/nether-coords.pw.toml"
 hash = "be5fe946da530a6ad15c11c8f01ca1cdcc68c87c46c59ca247fcb21da8cba488"
 metafile = true
@@ -453,18 +413,8 @@ hash = "f8d53ff4faefdef3f1b3a19ce9e2e63377d271612b0a3e3e9cd93ed0dd2f3781"
 metafile = true
 
 [[files]]
-file = "mods/showkeybinds.pw.toml"
-hash = "2fd6d3d0ce6181434a0d9027b109394fdbcd2082085207dafa1fe53859dd066e"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "7bc329ba362e6b9bce089cc236b3ae8d049cb9f874310e5cf1591fa764e2cb54"
-metafile = true
-
-[[files]]
-file = "mods/smooth-scrolling-everywhere-fabric.pw.toml"
-hash = "4b739b90aa5ca2eac2b43a9482a0c0ee80718415352a0644e6770480ff38de32"
 metafile = true
 
 [[files]]
@@ -503,13 +453,8 @@ hash = "571dcb69232bdca0a0ea8b285ed3a8ebc6288ae879bcd5b18df27957f42867a5"
 metafile = true
 
 [[files]]
-file = "mods/thorium.pw.toml"
-hash = "61e2a941621007c901c96fe1474b3c07f208712fa6130151771d5235b6cc8adb"
-metafile = true
-
-[[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "b6753279fd0a377fd88fbd34b6eb84d88c906af67cdfdcfa338971a558a23a94"
+hash = "8e51635927210a7c9bb8b7e294826f562dd18433d837e4a2f02d3446be5947be"
 metafile = true
 
 [[files]]
@@ -554,5 +499,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "72214bf1c5210d1fd5d47f5fe354310ea7d7e1268eb48574c0655d6d4f4d5c42"
+hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true

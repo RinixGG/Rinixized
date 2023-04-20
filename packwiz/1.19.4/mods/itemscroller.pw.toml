@@ -1,0 +1,9 @@
+name = "Item Scroller"
+filename = "itemscroller-fabric-1.19.4-craftfix-1.2.7.jar"
+side = "client"
+
+[download]
+url = "https://github.com/RinixGG/itemscroller-crafting-fix/releases/download/1.2.7.1194/itemscroller-fabric-1.19.4-craftfix-1.2.7.jar"
+
+hash-format = "sha256"
+hash = "29397c647578f134993a62f4a97984b5a61119535552deb3ea532616d54383a5"

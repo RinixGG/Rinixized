@@ -1,6 +1,28 @@
 # Rinixized Changelog
 
 
+## 3.0.0-beta.1 — 1.19.4
+
+Added support for 1.19.4. It needs to be tested, so if you have any problems [report](https://github.com/RinixGG/Rinixized/issues) them to me
+
+
+## 2.1.0 — 1.19.3
+
+### This update brings big changes for config system and mods list
+
++ Removed AntiGhost, AutoRun, BetterBarriers, ChatCoords, DLS, MoreCullingExtra, NBTTooltips, ShowKeybinds, SSE, Thorium.
++ Updated EMF, FastLoad, ImmediatelyFast, Tweakermore, Zoomify.
++ Updated Quilt Loader to 0.18.10
+
+
+## 1.2.0 — 1.19.2
+
++ Removed AntiGhost, AutoRun, BSVSB, BetterBarriers, CEM, ChatCoords, DLS, NBTTooltips, ShowKeybinds, Thorium, SSE.
++ Added EMF
++ Updated Better Statistics Screen, Capes, Chat Heads, Continuity, Dynamic FPS, Entity Culling, ETF, FastLoad, FeyTweaks, ImmediatelyFast, Iris, Litematica, Lithium, Memory Leak Fix, ModMenu, MoreCulling, QFAPI, Recursive Resources, Tweakermore, YACL
++ Updated Quilt Loader to 0.18.10
+
+
 ## 2.0.0 — 1.19.3
 
 + Improved configs

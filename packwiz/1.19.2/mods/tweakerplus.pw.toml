@@ -1,13 +1,13 @@
 name = "TweakerPlus"
-filename = "tweakerplus-mc1.19.2-v1.3.0.jar"
+filename = "tweakerplus-mc1.19.3-v1.3.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bDilvR8M/versions/ejWxx4eD/tweakerplus-mc1.19.2-v1.3.0.jar"
+url = "https://cdn.modrinth.com/data/bDilvR8M/versions/mvwtb7vp/tweakerplus-mc1.19.3-v1.3.1.jar"
 hash-format = "sha1"
-hash = "47b00143a947ee7d909f93f6700a4b7c3ad52af5"
+hash = "3179735b8006d18e68e298ff08f46cb6e569d28c"
 
 [update]
 [update.modrinth]
 mod-id = "bDilvR8M"
-version = "ejWxx4eD"
+version = "mvwtb7vp"

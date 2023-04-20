@@ -1,0 +1,13 @@
+name = "Litematica-Printer-Easyplace-Extension"
+filename = "litematica-printer-mc1.19.4-7.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ITCqumHN/versions/qODYw56V/litematica-printer-mc1.19.4-7.0.2.jar"
+hash-format = "sha1"
+hash = "f52466dde5c06a2ea277af90c6ca79ef82c28b9a"
+
+[update]
+[update.modrinth]
+mod-id = "ITCqumHN"
+version = "qODYw56V"

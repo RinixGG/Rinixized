@@ -263,6 +263,11 @@ hash = "853c3c3509313aecaa5db6c01f6a94419ec0128ec7630b7bf8caf46e80dec67a"
 metafile = true
 
 [[files]]
+file = "mods/itemscroller.pw.toml"
+hash = "5264459122253db43ceba2b1f6b40e03deecf13aa300efdf7563147adfd353e7"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
 metafile = true
@@ -284,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica-printer-easyplace-extension.pw.toml"
-hash = "620a8dece4d6f139aa5d58ff0c53ecd72537afc98b2645ab968c9165af9dfe17"
+hash = "48d15f52d9cd491313b17aff560a30dceb758ceeeafaea42b48fca1802ff593a"
 metafile = true
 
 [[files]]
@@ -395,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "4954d4d07986e32826318e2e1574797c4255d2e63cf1ee821c8855387f33a5b6"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
 
 [[files]]

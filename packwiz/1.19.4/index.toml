@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "289b7edb9225a3d27c2fa7c762cdc88e8fa225e314af7bbdfd79126b54322384"
+hash = "aed614bfaba0e96d6849257efb6b183c7aabf3c08100190d4d5ffb3c71c1500b"
 
 [[files]]
 file = "config/modmenu.json"
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "22ba34a25cfb6a105e927958f3b435f3cf6a14a053d7af0bc52664ff1c116a31"
+hash = "54968e302997818e3161506db9f83add8a29b415d216985c3a3bcd301bb9b7a2"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "90e948ebe0bb1255cad6afefc394f7b94dc26d05907c687a475c258bcd5e0b81"
+hash = "f5f143b93b2dc9b06133c179a698248dc6ff129e4313e84ba4d1c3bd5b422481"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "09f62ae3aee8a090f3b2cf6a1860bff62c1177566ab08850430cb6cbfe90159b"
+hash = "b8637d34d5e142b7de5ff0ffdcefc664ec322ea0528a251bfbc3d99e1c8986e9"
 metafile = true
 
 [[files]]

@@ -1,12 +1,17 @@
 # Rinixized Changelog
 
 
-## 3.0.1-beta.2 — 1.19.4
+## 3.0.2-beta — 1.19.4
+
+Removed Technical Utilities because there are some issues with it.
++ Updated Debugify, EMF, ModMenu.
+
+## 3.0.1-beta — 1.19.4
 
 Hotfix release. Readded Sodium Extra, updated litematica printer
 
 
-## 3.0.0-beta.1 — 1.19.4
+## 3.0.0-beta — 1.19.4
 
 Added support for 1.19.4. It needs to be tested, so if you have any problems [report](https://github.com/RinixGG/Rinixized/issues) them to me
 

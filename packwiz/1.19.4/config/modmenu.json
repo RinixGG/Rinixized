@@ -4,6 +4,7 @@
   "compact_list": false,
   "count_children": true,
   "mods_button_style": "classic",
+  "game_menu_button_style": "below_bugs",
   "count_hidden_mods": true,
   "mod_count_location": "title_screen",
   "hide_mod_links": false,

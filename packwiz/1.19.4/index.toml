@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ed0b74a95d17d681201e41caa1bb4ad1152aab0a27cde6b807555ff9b3682c97"
+hash = "82f3667a507c20698a1119b8a9fecd25cd0a1fcfc43c2180c56b3611fa175262"
 
 [[files]]
 file = "config/modmenu.json"
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
-hash = "a69d6b7d3b9d22e17485e4b3c3bc462724657ba1cc41a8433019c54c59be346c"
+hash = "5fdd0016bff105e32a651941aba7a56ed62acbe8459eeee0816d64866a8865bf"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "691e1855b59c4a6e46720c6e23c94eca3745bf2127d637709afc52f70b133723"
+hash = "e9325a52a112c0e85ff8850cfd22a2a2a89089feb480a4236283e0fea8a08654"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f5f143b93b2dc9b06133c179a698248dc6ff129e4313e84ba4d1c3bd5b422481"
+hash = "3eb9dc5713bd1208fb710dc134c50d7bc4217c2128f4f91abe9a08a0a660c5c9"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "3c793a12d7638e813ea7323e376577ee626b30bfcae4d22caa7820a215109357"
+hash = "d8a50a046548dc307d2bfe1a0a831bce32799cab74b7377cb9709e1e87191395"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "571ee03a6d7f2570063a315c0ac141d2252f6852a5e063a54ee02006bb518d86"
+hash = "090fb48c5b3a75d6335fa52837f10cfcebbd7891baf5cff54c41a7087c5dd0b1"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b77bc86bc7b354a55ed610b76c65e1ec0f9b2246b29e4a52d8d40889c975f4df"
+hash = "e2814612cc9e6af024bd0590ab0500e55595c8ed78e758515fdbfa7cb6185502"
 metafile = true
 
 [[files]]

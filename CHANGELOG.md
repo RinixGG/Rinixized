@@ -1,6 +1,12 @@
 # Rinixized Changelog
 
 
+## 3.0.5-beta — 1.19.4
+
++ Updated ETF, Chat Heads
++ Readded Enhanced Block Entities
+
+
 ## 3.0.4-beta — 1.19.4
 
 + Updated Adaptive Tooltips, Chat Heads, EMF, QFAPI, Tweakermore, YACL.

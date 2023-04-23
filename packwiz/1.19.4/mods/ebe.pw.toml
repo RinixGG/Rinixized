@@ -1,0 +1,9 @@
+name = "Enhanced Block Entities"
+filename = "enhancedblockentities-0.8+1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://github.com/RinixGG/EnhancedBlockEntities/releases/download/0.8%2B1.19.4/enhancedblockentities-0.8+1.19.4.jar"
+
+hash-format = "sha256"
+hash = "45530d0adf40ad1984fbb96187b38e362d9541f7f1da649e32da9e85b8e7ffb4"

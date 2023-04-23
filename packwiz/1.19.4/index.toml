@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "82f3667a507c20698a1119b8a9fecd25cd0a1fcfc43c2180c56b3611fa175262"
+hash = "0d2c7cf58129aa69824c58471b10dde03db15966f6a14ce242444a8748675afd"
 
 [[files]]
 file = "config/modmenu.json"
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e9325a52a112c0e85ff8850cfd22a2a2a89089feb480a4236283e0fea8a08654"
+hash = "53f4c91dad29ae26c26ce8b42cfd895ad09fb31eea4ea150530fb0fdade8d091"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "49576a9f64054a932e5bfe6cbe897ce03f556f5a8c5bb79e06795bfa65798253"
+hash = "f2aabdd214e4e6f5694480372d0d864e7a22f9f683a215faf018836fc1f2bcd9"
 metafile = true
 
 [[files]]

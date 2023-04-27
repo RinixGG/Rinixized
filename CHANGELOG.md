@@ -1,6 +1,12 @@
 # Rinixized Changelog
 
 
+## 3.0.6-beta — 1.19.4
+
++ Added [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui) - really nice replacement for vanilla minecraft command block UI.
++ Updated Main Menu Credits, EMF, FastLoad, QSL, YACL.
+
+
 ## 3.0.5-beta — 1.19.4
 
 + Updated ETF, Chat Heads

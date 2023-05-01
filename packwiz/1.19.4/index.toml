@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "bedc61a1d2b0c53dbad482431e9955910025aabf1e138e7254b60b5f4d64684a"
+hash = "bb8af3bc8302c05d6eca4d0f034ac25d47f4afcf14d81e7d47f6403ae0cfb669"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
+hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
 metafile = true
 
 [[files]]
@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "853c3c3509313aecaa5db6c01f6a94419ec0128ec7630b7bf8caf46e80dec67a"
+hash = "348131a334da655904b65a1acde31161e2791729904b86b5596714584cc6929d"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica-printer-easyplace-extension.pw.toml"
-hash = "48d15f52d9cd491313b17aff560a30dceb758ceeeafaea42b48fca1802ff593a"
+hash = "d252ce950b60bb4d5ffaf3483c3c4f1fc3d74eb85e4e630f03b5388c0c196adf"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b8637d34d5e142b7de5ff0ffdcefc664ec322ea0528a251bfbc3d99e1c8986e9"
+hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
 metafile = true
 
 [[files]]
@@ -414,12 +414,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+hash = "942e9738be0c83d196cd7cee9a3e93b9184faff7882d83e3d52ec66912ac07eb"
 metafile = true
 
 [[files]]

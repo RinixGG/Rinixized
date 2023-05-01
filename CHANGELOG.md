@@ -1,6 +1,12 @@
 # Rinixized Changelog
 
 
+## 3.0.7-beta — 1.19.4
+
++ Updated Sodium, Sodium Extra, Iris, Indium, Better Statistics Screen, ModMenu, Litematica Printer.
+This is most likely the last beta, because the modpack seems to be pretty stable.
+
+
 ## 3.0.6-beta — 1.19.4
 
 + Added [Better Command Block UI](https://modrinth.com/mod/bettercommandblockui) - really nice replacement for vanilla minecraft command block UI.

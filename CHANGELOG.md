@@ -1,6 +1,11 @@
 # Rinixized Changelog
 
 
+## 3.0.8-beta — 1.19.4
+
++ Updated Technical Utilities(fixed crash with Litematica)
+
+
 ## 3.0.7-beta — 1.19.4
 
 + Updated Sodium, Sodium Extra, Iris, Indium, Better Statistics Screen, ModMenu, Litematica Printer.

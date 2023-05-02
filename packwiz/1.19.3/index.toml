@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "93a65e3f351e30ab37ea471ffdfa2c95dd5ec3bd692dd228fb41477fe7213e64"
+hash = "58f9b006cced5ceb23cce684977aca6c08a1c0e6a062c6256baa73c5659df884"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0d4bc9ff6ca1bb1024a0ead6d06df3f8dabed6fe5eed974bd94e3eac4c0f7b08"
+hash = "78b4265cb588c34e3f144857d011413dd54953d8301bf911fe31dc0a37e5024a"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b9e92b5e0baed5a916779ef0016172d2d42ea310d9742744a8c920ecee4d7b9a"
+hash = "3ddb12a19403eb453fda1c23fd5124b0451db66eb6bf56a6b8b396b6f5fe17a4"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "3fd5e8732f9cd063d0ff3b6caf305330ed8a306cb1af9630c79eabf4ca83606d"
+hash = "06848036e814be3439e96936bf20dfa3257385f07d9ed6d9b5d2c45855145db9"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "064fafff245baf812342dc9af4acf661dec663bab2a4067c65a27fa00860efb1"
+hash = "6fa0e7939fa4179d0815949601d0a9164aa8f7a02ac49c24bec476659dba7bf6"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica-printer-easyplace-extension.pw.toml"
-hash = "e040134587deaf8f68a57e47f9f2df2d0f548320953c5db3b00e9e7a9445004c"
+hash = "e2821aeb17971cb09c98614b036a089a0eb073a1fb7f6931cb66a720b9af5bc4"
 metafile = true
 
 [[files]]
@@ -404,12 +404,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4b3e56fec52c8a95bb59e11f745be3a5ed8a527714cb4b5fb8ac5b7bf3cc662f"
+hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1ab96020d0954a72b5cc150b375f57cf8968ac2c1809a000472076f8675eb9ea"
+hash = "7f944578fd5424b902fcedda3dbac3e56ec7543f3b00bd1787a88a36750499e1"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "8e51635927210a7c9bb8b7e294826f562dd18433d837e4a2f02d3446be5947be"
+hash = "9483531e0e42b5665eb1de46a926d2415670219c1243290eb73fbd2eff2bd76c"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Technical Utilities"
-filename = "techutils-0.3.0-beta.2+1.19.4.jar"
+filename = "techutils-0.3.0-beta.3+1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/hNoAJSm7/versions/gG3WULg3/techutils-0.3.0-beta.2%2B1.19.4.jar"
+url = "https://cdn.modrinth.com/data/hNoAJSm7/versions/gXbOHa7y/techutils-0.3.0-beta.3%2B1.19.4.jar"
 hash-format = "sha1"
-hash = "fdb7eb7b4a4d07fa6d880dd5aa0f50f6cb29f913"
+hash = "a73a946bb16032c0601d2aeb21b7c901c5a1494e"
 
 [update]
 [update.modrinth]
 mod-id = "hNoAJSm7"
-version = "gG3WULg3"
+version = "gXbOHa7y"

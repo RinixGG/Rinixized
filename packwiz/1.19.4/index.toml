@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b1f71bd7def7553063a591ae8c6b0c967df8975ec58e8ba026976024f974b797"
+hash = "d6bc74dda7ed0e45ef4ed204564c2e876a7ac75ae563fab82fe4da59304be77e"
 
 [[files]]
 file = "config/modmenu.json"
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/techutils.pw.toml"
-hash = "6855e235a52a7a2d7ed55e19e9f5755ad6a71a9e1e70acf80b31555af6ebdfd3"
+hash = "a0897b79fa8261f14b18971b2568ce00687ed66527db060552f0c52bb31a6050"
 metafile = true
 
 [[files]]

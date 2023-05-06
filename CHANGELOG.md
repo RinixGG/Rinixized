@@ -1,6 +1,12 @@
 # Rinixized Changelog
 
 
+## 3.1.0 — 1.19.4
+
++ Updated Chat Heads, FastLoad, Malilib, Recursive Resources, TweakerMore, YACL.
++ Added [EBE Models Optimized](https://modrinth.com/resourcepack/ebe-models-optimizedpack) resource pack.
+
+
 ## 3.0.8-beta — 1.19.4
 
 + Updated Technical Utilities(fixed crash with Litematica)

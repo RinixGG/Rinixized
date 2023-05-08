@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5d5e37e723c3c408d8b1ae774f3107125ace83a5210c493806d2334121f0be71"
+hash = "b31676dcecadc67339891544e4969eed338d0863dc1d20777d4c389a5b8a8e91"
 
 [[files]]
 file = "config/modmenu.json"
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/recursiveresources.pw.toml"
-hash = "e4efd22d1821a123b97f396c074f5f0a24a3b8f1253f205854603affd03cc550"
+hash = "2fba84678a959bfa34111af7321cdfe4d11e075302849719c5966392f99da8fe"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/techutils.pw.toml"
-hash = "a0897b79fa8261f14b18971b2568ce00687ed66527db060552f0c52bb31a6050"
+hash = "d338b8c6d39b9102371c0f1854f3fe8605c1727f5abb23e01f73d80457bc04c0"
 metafile = true
 
 [[files]]
@@ -490,4 +490,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
+metafile = true
+
+[[files]]
+file = "resourcepacks/EBE_models_optimized.pw.toml"
+hash = "98d4ee8daf2347c851aa9a92ec167522fe5e3fae2f82c23fe716422bf1514f87"
 metafile = true

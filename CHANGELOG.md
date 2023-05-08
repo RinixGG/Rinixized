@@ -1,6 +1,12 @@
 # Rinixized Changelog
 
 
+## 3.1.1 — 1.19.4
+
+Hotfix update, fixed a bug where built-in resource packs were not displayed.
++ Updated Recursive Resources and Technical Utilities.
+
+
 ## 3.1.0 — 1.19.4
 
 + Updated Chat Heads, FastLoad, Malilib, Recursive Resources, TweakerMore, YACL.

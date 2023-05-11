@@ -1,6 +1,12 @@
 # Rinixized Changelog
 
 
+## 3.2.0 — 1.19.4
+
+Sodium has been rolled back to version 0.4.10 because of some issues.
++ Updated ETF and EMF
+
+
 ## 3.1.1 — 1.19.4
 
 Hotfix update, fixed a bug where built-in resource packs were not displayed.

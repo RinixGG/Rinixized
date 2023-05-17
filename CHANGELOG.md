@@ -1,6 +1,11 @@
 # Rinixized Changelog
 
 
+## 3.3.0 — 1.19.4
+
++ Updated Better Statistics Screen, ChatCalc, NoChatReports, Recursive Resources, tweakermore.
+
+
 ## 3.2.0 — 1.19.4
 
 Sodium has been rolled back to version 0.4.10 because of some issues.

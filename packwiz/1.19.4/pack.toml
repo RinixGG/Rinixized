@@ -1,12 +1,12 @@
 name = "Rinixized"
 author = "Rinix"
-version = "3.2.0"
+version = "3.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "24be8f1d7dd02943cf3fc9b143aba279bb359dbb9a6949a9b15273441b7328ad"
+hash = "c3d78e6e56c90b297850d142ae89778a6ed484033bedf8c3cb3bb7263f467d0a"
 
 [versions]
 minecraft = "1.19.4"

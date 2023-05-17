@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "bb8af3bc8302c05d6eca4d0f034ac25d47f4afcf14d81e7d47f6403ae0cfb669"
+hash = "71cff2539649cfe701db8621fdc7915bb852f1407cd8555414ed79595aa1220f"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatcalc.pw.toml"
-hash = "e263dd37f7bb2af931ff0538efb69938fc72baa256eefa536645e6a6b314b986"
+hash = "5460d182b33887c2afc235836503b92c28bcc591cf9ac0e6ee51720c4f3e2eee"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
+hash = "14574e7d1366c476b3ec720107fb0b255cd119640a2bd06f040733de6af4e27a"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/recursiveresources.pw.toml"
-hash = "2fba84678a959bfa34111af7321cdfe4d11e075302849719c5966392f99da8fe"
+hash = "f479ec13d681fea4bf15e702e9dedcbc08d3a5db8faf4a4efb4579d23afcc7c0"
 metafile = true
 
 [[files]]
@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "eb77604158442b785cdb17e30d75a918549298dcc6df433d64efbfba193edf37"
+hash = "8d9a59e7dfc64e60b0836d13448d860baba18f63db57f830a6b11d0b4944a3db"
 metafile = true
 
 [[files]]

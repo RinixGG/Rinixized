@@ -1,6 +1,12 @@
 # Rinixized Changelog
 
 
+## 3.4.0 — 1.19.4
+
++ Updated QFAPI, NoChatReports, OptiGui, Better Statistics Screen
++ Replaced Numeral ping with Better Ping Display
+
+
 ## 3.3.0 — 1.19.4
 
 + Updated Better Statistics Screen, ChatCalc, NoChatReports, Recursive Resources, tweakermore.

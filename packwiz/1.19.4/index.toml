@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a597b24b538851840feadcdd2ee68833ba93506a42420318f1a03a65288aefba"
+hash = "1654d20b6aa09980c775fb5b4f700e0d8cd0cd4466df2a86485a18c0a51bffce"
 
 [[files]]
 file = "config/modmenu.json"
@@ -123,8 +123,13 @@ hash = "6ba274ec55e782f8c12b744d33360e5f145254cc9b328ac35405f3de482afb63"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "cad644933c7182adab47ef24cd6dec2de329cb13d46a0c31d75c9bf0c68a131e"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
-hash = "71cff2539649cfe701db8621fdc7915bb852f1407cd8555414ed79595aa1220f"
+hash = "2cf94bc44842f1dd2924560a3258fb903d809162100c0dfac7894963ad2012cb"
 metafile = true
 
 [[files]]
@@ -364,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "14574e7d1366c476b3ec720107fb0b255cd119640a2bd06f040733de6af4e27a"
+hash = "87adb226c6e9c480155c0205bb0e6646bb85f5be16413bc555358df43bf41995"
 metafile = true
 
 [[files]]
@@ -373,13 +378,8 @@ hash = "e0ffc486b8d9b9bcd9123b284f8795c0e671321f7de9461df04de9e4fcc443c8"
 metafile = true
 
 [[files]]
-file = "mods/numeral-ping.pw.toml"
-hash = "1991bc6b478ca4e27a60a18142af29d75cc0f82bbd94d3f64db569ddfc2a8e06"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
-hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
+hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
 metafile = true
 
 [[files]]
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "5f70762432ca96f1897d96f36b72f248ecd3ec48abe7dffad6e1b1375998508f"
+hash = "3cfc05fb0b8e65c629812676d771b2eac199bf3e13d64a06e6909f4743b00d0d"
 metafile = true
 
 [[files]]

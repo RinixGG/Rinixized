@@ -1,6 +1,11 @@
 # Rinixized Changelog
 
 
+## 3.5.0 — 1.19.4
+
++ Updated Exordium, NoChatReports, FSB, Not Enough Animations, YACL, OptiGui, Better Statistics Screen, QFAPI.
+
+
 ## 3.4.0 — 1.19.4
 
 + Updated QFAPI, NoChatReports, OptiGui, Better Statistics Screen

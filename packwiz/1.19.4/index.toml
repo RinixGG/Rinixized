@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1654d20b6aa09980c775fb5b4f700e0d8cd0cd4466df2a86485a18c0a51bffce"
+hash = "8336ddf32c914a82298ea34d49ec9a180fb9a266496b55d11f141473216eaf0a"
 
 [[files]]
 file = "config/modmenu.json"

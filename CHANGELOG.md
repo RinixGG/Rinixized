@@ -3,7 +3,8 @@
 
 ## 3.5.0 — 1.19.4
 
-+ Updated Exordium, NoChatReports, FSB, Not Enough Animations, YACL, OptiGui, Better Statistics Screen, QFAPI.
++ Updated quilt loader to 0.19.0
++ Updated Alternate Current, Bobby, ChatCalc, Exordium, ImmediatelyFast, Indium, Inspecio, Iris, LambdaBetterGrass, Language Reload, Memory Leak Fix, ModMenu, NoChatReports, OptiGui, QFAPI, Tweakermore, Waveycapes, YACL, YOSBR.
 
 
 ## 3.4.0 — 1.19.4

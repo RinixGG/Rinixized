@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f128287d9b4685c17c5ef57e691e33006e3a4806ac724a7c289ba682bbda6c24"
+hash = "7232b3fed2d2c214da7b65688c1af0e2897d22fd88040ccb0d5ab7194a4799d7"
 
 [[files]]
 file = "config/modmenu.json"
@@ -411,11 +411,6 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "4fb915d2bc266c1ed7a0dce77e3da295305c5dbec7a7ae1d142b3abf621be309"
-metafile = true
-
-[[files]]
-file = "mods/status.pw.toml"
-hash = "b2c6079967f2fb2067ac852634bc56b940ec2668e359d0c454df2cb22fa29c40"
 metafile = true
 
 [[files]]

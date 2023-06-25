@@ -1,10 +1,19 @@
 # Rinixized Changelog
 
 
+## 4.0.0-alpha.1 — 1.20.1
+
+First 1.20 release. There may be bugs so if you've found one, [report](https://github.com/RinixGG/Rinixized/issues) it to me.
+
+### Missed mods
+
+Adaptive Tooltips, EBE, FeyTweaks, NetherCoords, Techutils, MemoryLeakFix.
+
+
 ## 3.5.0 — 1.19.4
 
-+ Updated quilt loader to 0.19.0
-+ Updated Alternate Current, Bobby, ChatCalc, Exordium, ImmediatelyFast, Indium, Inspecio, Iris, LambdaBetterGrass, Language Reload, Memory Leak Fix, ModMenu, NoChatReports, OptiGui, QFAPI, Tweakermore, Waveycapes, YACL, YOSBR.
++ Updated quilt loader to 0.19.2-beta.2
++ Updated Alternate Current, Bobby, ChatCalc, Exordium, ImmediatelyFast, Indium, Inspecio, Iris, LambdaBetterGrass, Language Reload, Memory Leak Fix, ModMenu, NoChatReports, OptiGui, QFAPI, Tweakermore, Waveycapes, YACL, YOSBR, Animatica, LambDynamicLights.
 
 
 ## 3.4.0 — 1.19.4

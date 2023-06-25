@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
+hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "b6199df97bd7363fc0b65ef9fb8c839453981955a6820912376ea77e9994c186"
+hash = "2f867261971e897b5bc68bcd48d29d5805dccbe260286eaad2a0356d2748388a"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "75a1e75e8922cc47eee3863cf1761e2198b22d5ba0d47fee24b8c51108aac715"
+hash = "c959159f77b8996061baa4775681cd2445a1b0691683a4f389d4065c316ef58d"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "f573cac2ec9cd88456c545e177753791c91a38ba0a46c4ad4c87e5a7878664ea"
+hash = "1127e53daa00cc93cc47e9226012c7121e9f44e83bc269b64699e8ac4894957c"
 metafile = true
 
 [[files]]
@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "2b6849fbfcbc4f628f1e01bfef237aef7a13087e61e0baac39a2981d155997db"
+hash = "9952b398afc2f8ecf94fd9aade5f0c80e45affc3c7b4e7872f09b2dff4eaac6c"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "37c5d5ea5d8c26d988a1de62ab9afc54fa9d8febf276de57f087a1642265ebfc"
+hash = "2ead87a33afe56ace8c2f9d64719bbebf623f6debbef87e4d3a6c5a5adbd51b4"
 metafile = true
 
 [[files]]

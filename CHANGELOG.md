@@ -1,6 +1,11 @@
 # Rinixized Changelog
 
 
+## 4.0.0-alpha.2 — 1.20.1
+
+Replaced the status mod that was added by accident with Status Effect Bars.
+
+
 ## 4.0.0-alpha.1 — 1.20.1
 
 First 1.20 release. There may be bugs so if you've found one, [report](https://github.com/RinixGG/Rinixized/issues) it to me.

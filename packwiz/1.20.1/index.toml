@@ -1,6 +1,94 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "f128287d9b4685c17c5ef57e691e33006e3a4806ac724a7c289ba682bbda6c24"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "eb86fa19033208775d5ada9b8debf08f3b3e35acb09c47e535be0f639fe58bba"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "728a9fc2e688516027636ac00e043ab79c4189a9d2e18a08a07203a7a923ec4b"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "bbc93e6b3cb7a917334cbbb3d1b0775a1cb3244ebc2075e4fa1fb7420e32cea7"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "df34a1ed7b309c08deaf42c906fa2ea6f29bb3bf8395ce26593fac4834938496"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-ServerWhitelist.json"
+hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/yosbr/config/adaptive-tooltips.json"
+hash = "14ddc05429610dd3a8b5f2108f6c14858b67f8395f0c51993bc12d9cf255a58d"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "ee1a86cc774ecffb60abf8254c8442218c6247b432971b3513e632e9dd08be5d"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "f5474c5f2aa9e04cc88211eb6c0b7c4d3835814ba7047252edf624355862caa6"
+
+[[files]]
+file = "config/yosbr/config/exordium.json"
+hash = "002eac16a2f8ef3c6f7116ddc3f98f4c6924b2c4e2dc2c2008aeaaadfa809035"
+
+[[files]]
+file = "config/yosbr/config/fastload.properties"
+hash = "d14ffa888e704b69b6ef3959672b5ae32ce36bbef47de03f1704c35a5ba80dc6"
+
+[[files]]
+file = "config/yosbr/config/feytweaks.json"
+hash = "1c95d9faa9395caca3fafb50cb4e05c47dc72a968650f48d53be3552eeff6456"
+
+[[files]]
+file = "config/yosbr/config/inspecio.json"
+hash = "cb13ef2f82e76d55c04ab1ce6c7adb5e729aec15b8bf81f8955bc50f2a7eaaac"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "ff139d55f93f705d62d9f7fbb2b47e8cec57e7ae1f44cd09a3ac7a05e4a8ea85"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "26a2255993a795eb17302f3a23014e458c5113016d97aa4bb882ebdf405823fc"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "9ed4ad540e54074c56b9700141b702e13b79a531cd6c678dd4654e3bc50c6bad"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "1c7fc2dc4484da53ef8969738207db0d423457b6f48362d9432c27260051bd2b"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "85fff422d477c2466a68f6538da09ee9c5be0ac86005266efd31cd973feb91c5"
+
+[[files]]
+file = "config/yosbr/config/tech-utils.json"
+hash = "ebf5b8c65dcaa9270815e378a36d7a6d40fa3de77219b4ec544d90ce1ba1bf0c"
+
+[[files]]
+file = "config/yosbr/config/waveycapes.json"
+hash = "0423838d965ecff34525d76f0015a4c0e8dc8965cd59b4b398d2bd2c95de7df0"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "bbe854cb41f89c07977bc114fa19a7b5f4ee54579104ece892f17bf327d8d645"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "05ac5655886661106bb34a8a898d47fd317577f7f44519693be882c7a73c64b8"
 metafile = true
@@ -171,6 +259,11 @@ hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]
+file = "mods/itemscroller.pw.toml"
+hash = "b3868063c71d715a0de0839f8b43b5d75726610932668a189cb9b8d4a52c1518"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -316,6 +409,11 @@ hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "4fb915d2bc266c1ed7a0dce77e3da295305c5dbec7a7ae1d142b3abf621be309"
+metafile = true
+
+[[files]]
 file = "mods/status.pw.toml"
 hash = "b2c6079967f2fb2067ac852634bc56b940ec2668e359d0c454df2cb22fa29c40"
 metafile = true
@@ -363,4 +461,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/EBE_models_optimized.pw.toml"
+hash = "98d4ee8daf2347c851aa9a92ec167522fe5e3fae2f82c23fe716422bf1514f87"
 metafile = true

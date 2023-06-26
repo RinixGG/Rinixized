@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "4e5894d63fd78dfcc4fd9bd415c2386c693f6fa04e3eb161118a8d33ee7b736d"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "23d2c83abcf601d56fa8a500660d8d512192a5a038468492037ec1025ba08b78"
+hash = "7735e0d48763373944fe6d82560319f7e9f77987459e303cdcdd9b94e677fbf5"
 metafile = true
 
 [[files]]
@@ -196,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
@@ -230,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "56c5adbda1ba0a93434145ffdf2e8e05e586e29c39932d2bc92642815a709aeb"
+hash = "88fea54c2bc4c3a0e65ec31a1f96b94ff1792e3362988fe719fa5e9de806f99a"
 metafile = true
 
 [[files]]
@@ -385,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "0136244dc171cc6cb6efa65f729356f0d0d69e2d83b53ba4ea89e6195a4dbfc9"
+hash = "528cfa4ab8def3ed78b472ac38da0553d546c44eb9713fb6f21ed46be61f5993"
 metafile = true
 
 [[files]]
@@ -415,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/symbol-chat.pw.toml"
-hash = "7fbc1887107c46619f238d13a0cdddc9b9dde083dbf92d87968a02636f31c000"
+hash = "adcc3a873b6e2df8fae283797f15a859a1c389b1fb2cf24fd6525dbb6a3b4792"
 metafile = true
 
 [[files]]

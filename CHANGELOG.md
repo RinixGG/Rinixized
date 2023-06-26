@@ -1,6 +1,11 @@
 # Rinixized Changelog
 
 
+## 4.0.0-beta.1 — 1.20.1
+
+Readded Enhanced block entities and updated mods.
+
+
 ## 4.0.0-alpha.2 — 1.20.1
 
 Replaced the status mod that was added by accident with Status Effect Bars.

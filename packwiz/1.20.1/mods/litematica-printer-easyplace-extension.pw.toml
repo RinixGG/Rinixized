@@ -3,11 +3,11 @@ filename = "litematica-printer-mc1.20.1-7.0.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ITCqumHN/versions/PmjrZnov/litematica-printer-mc1.20.1-7.0.4.jar"
+url = "https://cdn.modrinth.com/data/ITCqumHN/versions/CG5aYcML/litematica-printer-mc1.20.1-7.0.4.jar"
 hash-format = "sha1"
-hash = "eca98e7822261bb5911986c14f2ca73d8e47fe22"
+hash = "2064249cd03eb39074866783651837ec7863a306"
 
 [update]
 [update.modrinth]
 mod-id = "ITCqumHN"
-version = "PmjrZnov"
+version = "CG5aYcML"

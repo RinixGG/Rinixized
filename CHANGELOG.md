@@ -1,6 +1,12 @@
 # Rinixized Changelog
 
 
+## 4.0.0-beta.2 — 1.20.1
+
++ Removed EBE Models Optimized resourcepack - no longer needed.
++ Updated mods.
+
+
 ## 4.0.0-beta.1 — 1.20.1
 
 Readded Enhanced block entities and updated mods.

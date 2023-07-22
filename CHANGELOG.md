@@ -1,6 +1,11 @@
 # Rinixized Changelog
 
 
+## 4.0.0 — 1.20.1
+
++ Updated mods
+
+
 ## 4.0.0-beta.2 — 1.20.1
 
 + Removed EBE Models Optimized resourcepack - no longer needed.

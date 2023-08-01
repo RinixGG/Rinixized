@@ -1,6 +1,11 @@
 # Rinixized Changelog
 
 
+## 4.1.0 — 1.20.1
+
++ Updated Chat Heads, Continuity, CraterLib, ImmediatelyFast, QKL, QFAPI, Reeses Sodium options, TweakerMore, YACL, Zoomify
+
+
 ## 4.0.0 — 1.20.1
 
 + Updated mods

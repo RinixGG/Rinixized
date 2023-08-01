@@ -219,6 +219,11 @@ hash = "49a42a2456b0d0024bb61afdfeb279c51d581901fbd59a4d00ff772b206fefaa"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
 hash = "97a743edee2ff1be103f976bb56a23cef3718881da058ba4459f1f30c4cd3156"
 metafile = true
@@ -361,11 +366,6 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "f9a9e8ce7d7f9443a3dd6b95024d087350c10828a492811cf0247c6889009af4"
 metafile = true
 
 [[files]]

@@ -1,6 +1,13 @@
 # Rinixized Changelog
 
 
+## 4.2.0 — 1.20.1
+
++ Updated Sodium to 0.5.0
++ Updated ImmediatelyFast, Iris, Reeses Sodium Options, Sodium Extra
++ Readded Exordium
+
+
 ## 4.1.0 — 1.20.1
 
 + Updated Chat Heads, Continuity, CraterLib, ImmediatelyFast, QKL, QFAPI, Reeses Sodium options, TweakerMore, YACL, Zoomify
